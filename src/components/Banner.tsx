@@ -12,7 +12,7 @@ export default function Banner () {
             />
 
             <div className={styles.bannerText}>
-                <h1>where every event finds its venue</h1>
+                <h1 className="text-4xl font-medium">where every event finds its venue</h1>
             </div>
         </div>
     );
